@@ -1,9 +1,7 @@
 # Biophysics
 Biophysics course final project
 
-# Cancer Stem Cells and Tumor Population Dynamics
-
-## 📖 Project Overview
+## Cancer Stem Cells and Tumor Population Dynamics
 
 This project explores the role of **Cancer Stem Cells (CSCs)** in driving tumor growth and heterogeneity. By combining **biological insights** with **mathematical population dynamics models**, the study investigates how CSCs contribute to cancer progression, their experimental identification, and challenges associated with targeting them.
 
